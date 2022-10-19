@@ -14,8 +14,7 @@
  ```
  💻 - Computador;
  🌐 - Acesso á internet;
- 🧠 - Conhecimento prévio: Nenhum.
- 
+ 🧠 - Conhecimento prévio: Nenhum. 
 ```
 
    
