@@ -19,10 +19,9 @@
   -->
 
   
-
-
-  <h2> Ferramentas/Extensões<h2>
-
+   
+ <h2> Ferramentas/Extensões<h2>
+    
 - Visual Studio Code (Ferramenta: https://code.visualstudio.com/Download)
 - Extensões:
   - `live server`
