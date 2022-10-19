@@ -1,6 +1,1 @@
-# instruções de uso
-
-> Ambiente de desenvolvimento
-```
-  Visual studio code
-```
+<h1 align="center">Instruções</h1>
