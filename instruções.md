@@ -23,7 +23,7 @@
   
   
    
- ## Ferramentas/Extensões
+ ## Preparação
     
 - IDE 
   - `Visual Studio code` <br><br>
