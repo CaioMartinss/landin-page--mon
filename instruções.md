@@ -5,7 +5,7 @@
 <p> ============================================================ </p>
   
 ## Objetivos 
-  - Apresentar aos aulistas
+  - Apresentar aos aulistas o princípio do desenvolvimento web;
   - teste
   - teste
   
