@@ -1,0 +1,248 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,700;1,400&family=Open+Sans&display=swap');
+
+/* configuraões padroes */
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Merriweather', serif;
+
+}
+
+body {
+    background-color: rgb(28, 35, 42)
+}
+
+/* configurações do header */
+.pesquisa {
+    width: 100%;
+    display: flex;
+    justify-content: end;
+    margin: 0px 0px 0px 30em;
+}
+
+
+.hide {
+    margin-right: 30px;
+    width: 26px;
+    cursor: pointer;
+}
+
+
+.container {
+    width: 60%;
+    height: 35px;
+    display: none;
+    color: #fff;
+    border: 1.5px solid rgb(252, 254, 255);
+    background-color: rgb(31, 42, 53);
+
+}
+
+header {
+    background-color: rgb(26, 38, 50);
+    width: 100%;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    padding: 20px 48px;
+}
+
+header .logo {
+    width: 130px;
+    padding-top: 15px;
+}
+
+
+ul {
+    margin: 0px 0px 2px 20px;
+    display: flex;
+    align-items: center;
+    gap: 35px;
+}
+
+ul li a {
+    color: #fff;
+    font-size: 15px;
+    padding-bottom: 5px;
+    border-bottom: 2px solid transparent;
+    transition: all 0.5s ease;
+}
+
+ul li a {
+    border-bottom: 2px solid #fff;
+}
+
+header ul li a:hover {
+    width: auto;
+    height: auto;
+    transform: scale(5.0);
+    border-bottom: 2px solid rgb(39, 146, 189);
+}
+
+.perfil {
+    width: 40px;
+    display: flex;
+    justify-content: end;
+    /*mexi na largura e foi pro final*/
+    cursor: pointer;
+}
+
+
+/*=======================================================*/
+
+
+/* estilizções do main(slides) */
+
+
+.slider {
+    width: 100%;
+    height: 295px;
+    overflow: hidden;
+}
+
+.slides {
+    width: 500%;
+    height: 400px;
+    display: flex;
+}
+
+.slides input {
+    display: none;
+}
+
+
+.slide {
+    width: 25%;
+    position: relative;
+    transition: 0.5s;
+}
+
+.slide img {
+    width: 80%;
+}
+
+.manual-navigation {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    width: 1000px;
+    margin-top: -130px;
+    margin-left: 18%;
+    gap: 8px;
+
+
+}
+
+.manual-btn {
+    border: 2px solid #fff;
+    padding: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 1s;
+}
+
+.manual-btn:hover {
+    background-color: #fff;
+}
+
+.manual-btn:not(:last-child) {
+    margin-right: 10px;
+}
+
+#radio1:checked~.first {
+    margin-left: 0%;
+}
+
+#radio2:checked~.first {
+    margin-left: -25%;
+}
+
+#radio3:checked~.first {
+    margin-left: -50%;
+}
+
+#radio4:checked~.first {
+    margin-left: -75%;
+}
+
+main .assistir p{
+    width: 30%;
+    font-size: 19px;
+    color: white;
+    padding-left: 130px;
+    margin-top: 40px;
+}
+
+main .btns {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-top: -30px;
+    margin-left: -670px;
+
+}
+
+main .btns img {
+    width: 35px;
+    height: 35px;
+    cursor: pointer;
+
+}
+
+
+main .btns img:hover{
+    border-radius: 5px;
+    border: 1.5px solid rgb(39, 146, 189);
+    transform: scale(1.4);
+}
+
+.cards {
+    display: flex;
+    margin-top: 15px;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+
+.cards div img {
+    border-radius: 7px;
+    display: flex;
+    width: 300px;
+    height: 100%;
+}
+
+.cards div img:hover {
+    margin-top: -5px;
+    border-radius: 10px;
+    border: 3px solid rgb(39, 146, 189);
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+
+.cards2 {
+    display: flex;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    justify-content: center;
+    gap: 15px;
+}
+
+.cards2 div img {
+    border-radius: 5px;
+    display: flex;
+    width: 300px;
+    height: 100%;
+}
+
+.cards2 div img:hover {
+    margin-top: -1px;
+    margin-bottom: -1px;
+    border: 3px solid rgb(39, 146, 189);
+    transform: scale(1.1);
+    transition: 0.5s;
+}
