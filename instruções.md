@@ -27,7 +27,7 @@
  ## Ferramentas/Extensões
     
 - IDE 
-  - `Viual Studio code` <br><br>
+  - `Visual Studio code` <br><br>
   [![Image](https://img-blog.csdnimg.cn/20201129162113189.png?x-oss-process=image/resize,m_fixed,h_64,w_64 "visual studio code")](https://code.visualstudio.com/Download)
 - Ferramenta:
   - `w3c validator` <br><br>
