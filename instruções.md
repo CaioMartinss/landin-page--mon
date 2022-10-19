@@ -5,7 +5,7 @@
 <p> ============================================================ </p>
   
 ## Objetivos 
-  - teste
+  - Apresentar aos aulistas
   - teste
   - teste
   
