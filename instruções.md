@@ -29,4 +29,5 @@
     
 - Visual Studio Code (Ferramenta: https://code.visualstudio.com/Download)
 - Extensões:
-  - `live server`
+  - `live server` <br><br>
+    [![Image](https://www.barajacoding.or.id/wp-content/uploads/2020/11/image-7-300x123.png)]()
