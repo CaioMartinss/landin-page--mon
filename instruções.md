@@ -11,10 +11,11 @@
   
 ## Pré-requisitos:
    
- ```Code
+ ```
  💻 - Computador;
  🌐 - Acesso á internet;
  🧠 - Conhecimento prévio: Nenhum.
+ 
 ```
 
    
