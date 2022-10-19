@@ -1,10 +1,15 @@
-<h1 align="center"> 📑 Instruções de uso</h1>
+<h1 align="center"> 📑 Instruções </h1>
 
 
-<h2> 💥 Motivação<h2>
+## 💥 Motivação
 <p> ============================================================ </p>
   
- <h2>Pré-requisitos:<h2>
+## Objetivos 
+  - teste
+  - teste
+  - teste
+  
+## Pré-requisitos:
    
  ```Code
  💻 - Computador;
@@ -20,7 +25,7 @@
 
   
    
- <h2> Ferramentas/Extensões<h2>
+ ## Ferramentas/Extensões
     
 - Visual Studio Code (Ferramenta: https://code.visualstudio.com/Download)
 - Extensões:
