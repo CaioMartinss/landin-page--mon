@@ -36,5 +36,6 @@
     [![Image ](https://www.barajacoding.or.id/wp-content/uploads/2020/11/image-7-300x123.png  "Extensão: live server")](https://github.com/CaioMartinss/landin-page--mon/blob/main/instru%C3%A7%C3%B5es.md)
     
     
- 🥇 🏆
- ## Parabéns.
+## PARABÉNS!
+
+![Parabéns!](https://raw.githubusercontent.com/devsuperior/bds-assets/main/img/trophy.png)
