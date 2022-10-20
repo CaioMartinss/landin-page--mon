@@ -6,10 +6,10 @@
   
 ## Objetivos 
   - Apresentar aos aulistas o princípio do desenvolvimento web;
-  - expor pequenos conhecimetnos em HTML e CSS.
-  - teste
+  - Expor pequenos conhecimentos em HTML, CSS e javascript.
+  - Explorar de forma prática conhecimentso em HTML, CSS e javascript.
   
-## Pré-requisitos:
+## Pré-requisitos: 🖐️ 🤨
    
  ```
  💻 - Computador;
@@ -34,3 +34,7 @@
 - Extensões:
   - `live server` <br><br>
     [![Image ](https://www.barajacoding.or.id/wp-content/uploads/2020/11/image-7-300x123.png  "Extensão: live server")](https://github.com/CaioMartinss/landin-page--mon/blob/main/instru%C3%A7%C3%B5es.md)
+    
+    
+ 🥇 🏆
+ ## Parabéns.
