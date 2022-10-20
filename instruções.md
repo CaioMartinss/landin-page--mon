@@ -6,7 +6,7 @@
   
 ## Objetivos 
   - Apresentar aos aulistas o princípio do desenvolvimento web;
-  - teste
+  - expor pequenos conhecimetnos em HTML e CSS.
   - teste
   
 ## Pré-requisitos:
