@@ -2,7 +2,7 @@
 
 
 ## 💥 Motivação
-<p> ============================================================ </p>
+<p>  Este projeto de extensão foi desenvolvido com o objetivo de apresentar conhecimentos embrionários do desenvolvimento web, integrando: HTML, CSS, SASS e JavaScript. Além disso, importantes tópicos foram frisados como boas práticas, dicas e sugestões.</p>
   
 ##  🔖 Objetivos 
   - Apresentar aos aulistas o princípio do desenvolvimento web;
