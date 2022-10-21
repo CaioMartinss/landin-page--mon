@@ -9,7 +9,7 @@
   - Expor pequenos conhecimentos em HTML, CSS e javascript.
   - Explorar de forma prática noções em HTML, CSS e javascript.
   
-## Pré-requisitos: 🖐️ 🤨
+##  Pré-requisitos: 🖐️ 🤨
    
  ```
  💻 - Computador;
@@ -17,8 +17,9 @@
  🧠 - Conhecimento prévio: Nenhum. 
 ```
 
+
    
-## Conhecimentos Aplicados
+## ✅ Conhecimentos Aplicados
 - [Propriedades de FlexBox](https://developer.mozilla.org/pt-BR/docs/Learn/CSS/CSS_layout/Flexbox);
 - [Tags de marcação de texto](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element);
 - [Validação semântica](https://validator.w3.org/);
