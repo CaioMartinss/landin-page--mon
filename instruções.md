@@ -31,6 +31,9 @@
 - IDE 
   - `Visual Studio code` <br><br>
   [![Image](https://img-blog.csdnimg.cn/20201129162113189.png?x-oss-process=image/resize,m_fixed,h_64,w_64 "visual studio code")](https://code.visualstudio.com/Download)
+     - `Especificações`
+     - 1.6 GHz or faster processor;
+     - 1 GB of RAM.
 - Ferramenta:
   - `w3c validator` <br><br>
     [![Image ]( https://th.bing.com/th/id/R.46e531a9d5982c49db8c3ef95412e4a7?rik=CqpsvahAwnMkwA&riu=http%3a%2f%2fvalidator.w3.org%2fimages%2fw3c.png&ehk=BMD3o3qwcQmhhXfIuWjEipAJVDvxLLm%2b%2fJj18lkqd4M%3d&risl=&pid=ImgRaw&r=0 "ferramenta: w3c validator")](https://validator.w3.org/)
