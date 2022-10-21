@@ -19,11 +19,11 @@
 
    
 ## Conhecimentos Aplicados
-- Propriedades de FlexBox;
-- Tags de marcação de texto;
-- Validação semântica;
-- Padronizações;
-- Eventos de Mouse;
+- [Propriedades de FlexBox](https://developer.mozilla.org/pt-BR/docs/Learn/CSS/CSS_layout/Flexbox);
+- [Tags de marcação de texto](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element);
+- [Validação semântica](https://validator.w3.org/);
+- [Padronizações]();
+- [Eventos de Mouse](https://developer.mozilla.org/pt-BR/docs/Web/API/MouseEvent);
   
  ## Preparação
     
