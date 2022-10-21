@@ -35,16 +35,17 @@
   - `live server` <br><br>
     [![Image ](https://www.barajacoding.or.id/wp-content/uploads/2020/11/image-7-300x123.png  "Extensão: live server")](https://github.com/CaioMartinss/landin-page--mon/blob/main/instru%C3%A7%C3%B5es.md)
     
-    
+   
+  
 ## PARABÉNS!
 
-<div display="flex">
-<div align="center"> 
-<img src="https://giphy.com/gifs/carai-receba-1ngaeOmc6GLqY2qly4.gif" width="40" height="40" /> 
+ 
+ 
+
   
-![Parabéns!](https://raw.githubusercontent.com/devsuperior/bds-assets/main/img/trophy.png)
-</div>
-</div>
+![Parabéns!](https://raw.githubusercontent.com/devsuperior/bds-assets/main/img/trophy.png)    ![grab-landing-page](https://raw.githubusercontent.com/CaioMartinss/landin-page--mon/main/paginaPrincipal/img/d.webp )
+
+
 
 
 
