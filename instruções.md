@@ -7,7 +7,7 @@
 ##  🔖 Objetivos 
   - Apresentar aos aulistas o princípio do desenvolvimento web;
   - Expor pequenos conhecimentos em HTML, CSS e javascript.
-  - Explorar de forma prática conhecimentso em HTML, CSS e javascript.
+  - Explorar de forma prática noções em HTML, CSS e javascript.
   
 ## Pré-requisitos: 🖐️ 🤨
    
