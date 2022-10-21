@@ -38,6 +38,14 @@
     
 ## PARABÉNS!
 
+<div display="flex">
+<div align="center"> 
+<img src="https://giphy.com/gifs/carai-receba-1ngaeOmc6GLqY2qly4.gif" width="40" height="40" /> 
+  
 ![Parabéns!](https://raw.githubusercontent.com/devsuperior/bds-assets/main/img/trophy.png)
+</div>
+</div>
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+
+
+
