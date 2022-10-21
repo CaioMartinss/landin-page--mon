@@ -9,7 +9,7 @@
   - Expor pequenos conhecimentos em HTML, CSS e javascript.
   - Explorar de forma prática noções em HTML, CSS e javascript.
   
-##  Pré-requisitos: 🖐️ 🤨
+## 🖐️ 🤨 Pré-requisitos: 
    
  ```
  💻 - Computador;
@@ -26,7 +26,7 @@
 - [Padronizações]();
 - [Eventos de Mouse](https://developer.mozilla.org/pt-BR/docs/Web/API/MouseEvent);
   
- ## Preparação
+ ## 📢 Preparação
     
 - IDE 
   - `Visual Studio code` <br><br>
@@ -40,7 +40,7 @@
     
    
   
-## PARABÉNS!
+## 🥇 PARABÉNS!
 
  
  
