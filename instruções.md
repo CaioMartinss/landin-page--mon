@@ -19,10 +19,11 @@
 
    
 ## Conhecimentos Aplicados
-- FlexBox(CSS)
-- Tags de marcação de texto(HTML)
-- Eventos de Mouse (JAVASCRIPT)
-- 
+- Propriedades de FlexBox;
+- Tags de marcação de texto;
+- Validação semântica;
+- Padronizações;
+- Eventos de Mouse;
   
  ## Preparação
     
