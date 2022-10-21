@@ -1,7 +1,7 @@
 <h1 align="center"> 📑 Instruções </h1>
 
 
-## 💥 Justificativa
+## 📝 Justificativa
 <p>   Este projeto de extensão foi desenvolvido com o objetivo de apresentar conhecimentos embrionários do desenvolvimento web, integrando: HTML, CSS, SASS e JavaScript. Além disso, importantes tópicos foram frisados como boas práticas, dicas e sugestões.</p>
   
 ##  🔖 Objetivos 
