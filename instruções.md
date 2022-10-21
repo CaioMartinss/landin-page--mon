@@ -18,11 +18,12 @@
 ```
 
    
-
-   
+## Conhecimentos Aplicados
+- FlexBox(CSS)
+- Tags de marcação de texto(HTML)
+- Eventos de Mouse (JAVASCRIPT)
+- 
   
-  
-   
  ## Preparação
     
 - IDE 
